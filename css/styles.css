@@ -3,7 +3,7 @@ body {
   background-color: hsl(30, 38%, 92%);
   color: hsl(228, 12%, 48%);
   font-family: 'Montserrat', sans-serif;
-  font-size: 14px;
+  font-size: 0.875rem;
 }
 
 h1 {
@@ -59,7 +59,7 @@ p {
   border-radius: 8px;
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
-  font-size: 14px;
+  font-size: 0.875rem;
   background: #3d8269;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
